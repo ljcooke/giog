@@ -15,7 +15,7 @@ ASCII &rarr; Ogham conversion.
 Try this:
 
     >>> import ogham
-    >>> ogham.test('this is a test')
+    >>> ogham.test('This is a test!')
     this is a test
     ᚛ᚈᚆᚔᚄ ᚔᚄ ᚐ ᚈᚓᚄᚈ᚜
 
