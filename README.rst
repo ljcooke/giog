@@ -1,7 +1,7 @@
 Gíog
 ====
 
-An ogham Twitter client.
+An ogham Twitter client. Requires Python 3.3 or later.
 
 gíog
   'to tweet'
